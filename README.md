@@ -7,12 +7,14 @@ This fork aims to be remain upstream-compatible with the original work,
 and to contribute all changes to the upstream repository.
 
 ### This fork maintained by:
-Author: Allen Shaw
-Url: https://joineryhq.com
+
+Author: Allen Shaw  
+Url: https://joineryhq.com  
 Public repo: https://github.com/twomice/CiviCRM-Group-Sync
 
 ## Original work by:
-Author: Brian Shaughnessy
+
+Author: Brian Shaughnessy  
 Url: www.lcdservices.biz
 
 CiviCRM Group Sync is used to synchronize CiviCRM groups with Joomla 1.6+ ACL groups. After creating a sync rule using the component interface, any contacts added to a CiviCRM group will be added to corresponding linked Joomla ACL groups (provided the contact has an associated user record), and vice versa.
