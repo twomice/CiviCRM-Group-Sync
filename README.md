@@ -1,12 +1,12 @@
-CiviCRM Group Sync
+# CiviCRM Group Sync
 
-# Joinery fork 
+## Joinery fork 
 Forked from: https://github.com/lcdservices/CiviCRM-Group-Sync
 
 This fork aims to be remain upstream-compatible with the original work,
 and to contribute all changes to the upstream repository.
 
-## This fork maintained by:
+### This fork maintained by:
 Author: Allen Shaw
 Url: https://joineryhq.com
 Public repo: https://github.com/twomice/CiviCRM-Group-Sync
